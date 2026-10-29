@@ -11,7 +11,7 @@
 Congratulations! You should have a running local repository that matches our GitHub repository with the ability to push your code. If these instructions did not work for you, throw your tomatoes 🍅 at Dylan (i.e. let me know). My hope is that these instructions made the process a bit more bearable. 
 
 ## Git Push Instructions
-## ⚠️When pushing, to avoid needing to merge local branches, only make changes to your own files.⚠️
+## ⚠️When pushing, to avoid making any merges on the GitHub repository, only make changes to your own files.⚠️
 
 | Step | Command | Instruction |
 | --- | --- | --- |

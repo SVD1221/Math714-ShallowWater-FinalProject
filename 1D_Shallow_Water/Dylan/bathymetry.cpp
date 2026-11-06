@@ -23,7 +23,7 @@ void writeTo(ofstream *file, vector<float> *vec)
 // BCs: periodic
 
 const float g = 9.8;
-const float pi = 3.14159;
+const float pi = 3.1415;
 
 float speed(vector<float> q, float b)
 {
